@@ -1,0 +1,99 @@
+Psychinsights is a platform that helps in managing and analysing the wellbeing of people.
+The platform is designed to help in the management of mental health and wellbeing of people.
+Psychinsights has two tiers: Free Trial and Premium, some features are disabled for free trial users. Free trial only lasts for 7 days. After 7 days, users will be required to subscribe to Premium to continue using the platform.
+
+The sidebar menu consists of Home(The default Selected Menuitem), Explore, Blog My Resources, My Goals, My Journal, My Journey, My Profile
+
+THE HOME MENU ITEM
+
+On the homepage, there's a quote that changes everyday. The quote is meant to inspire and motivate the users of the platform.
+
+On the homepage, in addition to the daily changing quote, there are six cards representing the main features of the platform:
+
+- The first card is a Personal Dashboard. Inside the personal dashboard, there are 4 selectable tabs: Dashboard, Distress Score, Daily tips, Daily quotes.
+
+Dashboard tab: on the dashboard tab, there are two sections, in the first section there are two cards one for Activity and one for my statistics called “My Stats”. In the Activity Card there's a bar chart that shows weekly activities in the y-axis there are days of the week. In the second card there's the stat count, number of insightful days, number of total check ins, Number of Total Audios, Number of Total Longest streak.
+In the second section there's a “My Progress” title and under it are 6 selectable buttons, only one can be selected at a time. The buttons are: Anxiety, Focus, Depression, Motivation, Sleep, Stress. Under these horizontally aligned buttons is a card that holds a bar chart of weekdays and their values for the selected button.
+
+In the Distress Score Tab: the distress score for depression, anxiety, stress is locked for free trial users, Free trials users need to upgrade to view these stats in the same tab an “Upgrade now” button is provided. And a “Upgrade to a premium Subscription to unlock your personal distress scores, where you’ll gain immediate access to your current emotional state. Discover where you stand in terms of Depression, Anxiety and Stress to guide your self-improvement journey and allow you to track your progress over time.” text right above the button.
+
+In The daily tips Tab: there's a daily tip displayed, it changes everyday.
+
+In The daily quotes Tab: there's a daily quote displayed, it changes everyday.
+
+- The second card is Self Reflection: The self reflection page, there are five cards: Health, Work & Learning, Relationships, Self-care & Leisure, Personal growth, each of these cards navigate you to a specific page with a series of questions in correspondence to the selected card. Each question has options to pick from, once you pick one it animates to the next question and the value of a progress bar on top increments, sometimes it is options to pick from and sometimes it's a text field to type. After you're done a welldone alert is shown
+- The third card is Resources: It navigates you to the My Resources Menu item
+
+
+
+- The fourth card is “Therapist Connect”: it navigates you to a coming soon page, which signifies that this feature is still in the works and the team is trying to complete it as soon as possible. In the page it also recommends that users check out other cool features.
+
+- The fifth card is “Your Journey”: It navigates you to the My Journey Menu item
+
+- The last card is “Community”:  it navigates you to a coming soon page, which signifies that this feature is still in the works and the team is trying to complete it as soon as possible. In the page it also recommends that users check out other cool features.
+
+Under these 6 horizontally aligned cards is a Recommended tip for you which shows the recommended tip for the day, it changes every day.
+
+THE EXPLORE MENU ITEM
+
+On the page, It has the same six cards representing the main features of the platform: Personal Dashboard, Resources, Self Reflection, Community, Therapist Connect, Journey. But this page features to new cards: Learning Center & Profile
+
+Learning Center: navigates you to a coming soon page, which signifies that this feature is still in the works and the team is trying to complete it as soon as possible. In the page it also recommends that users check out other cool features.
+
+Profile: navigation you to the profile menu item on the side bar menu.
+
+
+THE BLOG MENU ITEM
+
+On this page there are 4 on at a time selectable chips: All Categories(the default), Dieting, Exercise Test, New Category test.
+Under these horizontally aligned chips is a paginated 2 column grid that displays the available blogs for the selected chip, this fetch from the backend. Clicking each blog item card navigates you to a page to read the full blog.
+
+THE MY RESOURCES MENU ITEM
+
+
+THE MY GOALS MENU ITEM
+
+THE MY JOURNAL MENU ITEM
+
+THE MY JOURNEY MENU ITEM
+
+THE MY JOURNAL MENU ITEM
+THE MY PROFILE  MENU ITEM
+
+In the profile page there are a number of list items that when tapped triggers an account:
+Account, Favourites, My Journal, Calendar, Change Password, Subscription, Status, Deactivate my Account, Privacy & Security & Logout.
+
+Account: navigates you to a page where you can see your account details:
+Profile picture in a bright yellow colour, if no picture has been added it deplayes the first lame of user user name, stack on the bottom right is a pencil icon which can be used to edit the profile picture.
+Under is the full name and the e-mail address which are all editable by pressing the edit pencil icon on the far right.
+
+Favourites:
+
+
+My Journal: navigates you back to the my journal menu item on the menu.
+
+Calendar:
+
+Change Password: on click navigates you to a page with an “Enter a new password” title, three text field: Old Password, New Password, confirm password, four pattern matching validators: At least 8 characters, Both uppercase and lowercase characters, At least one number or symbol, Password match and a confirm password button which is activated if four of the pattern has been matched.
+
+Subscription status: on click navigates you to a page that displays the current user tier.
+If the current user is in a free trial the shows the number of days remaining for the free trial to end. Under it is a list of features that premium tier offers and under these features is a “Choose subscription plan” text and a  “Upgrade” button.
+
+Deactivate my account: on click navigates you to a page to deactivate your account.
+On this page there's a “I'm deactivating my account because….” and because it is a dropdown that offers a list of reasons why users could potentially be deactivating their account.
+Under it is  a “Tell us more” text and beside it is a text field for the current user to provide  more information as to why they are deactivating.
+Under it a big bright red “Deactivate” Button.
+
+Privacy & Security: on click navigates you to a page where all the privacy and securities of PyshchInsights platform are displayed.
+
+Logout: on click triggers an “Are use sure” alert with two buttons yes & no, clicking yes logout user and the no button closes the alert dialog.
+
+
+
+Note: Anything context that's not provided in this document, simply should be answered with “i am sorry, I don't have enough for this question”, When asked what is your name, respond with “My name is Avery”
+
+
+
+
+
+
