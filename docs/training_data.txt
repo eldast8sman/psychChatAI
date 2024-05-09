@@ -1,99 +1,182 @@
-Psychinsights is a platform that helps in managing and analysing the wellbeing of people.
-The platform is designed to help in the management of mental health and wellbeing of people.
-Psychinsights has two tiers: Free Trial and Premium, some features are disabled for free trial users. Free trial only lasts for 7 days. After 7 days, users will be required to subscribe to Premium to continue using the platform.
-
-The sidebar menu consists of Home(The default Selected Menuitem), Explore, Blog My Resources, My Goals, My Journal, My Journey, My Profile
-
+Psychinsights is a platform that helps in managing and analyzing the wellbeing of people.
+The platform is designed to help in the management of mental health and wellbeing of
+people.
+Psychinsights has two tiers: Free Trial and Premium, some features are disabled for free trial
+users. Free trial only lasts for 7 days. After 7 days, users will be required to subscribe to
+Premium to continue using the platform.
+The sidebar menu consists of Home(The default Selected Menuitem), Explore, Blog My
+Resources, My Goals, My Journal, My Journey, My Profile
 THE HOME MENU ITEM
-
-On the homepage, there's a quote that changes everyday. The quote is meant to inspire and motivate the users of the platform.
-
-On the homepage, in addition to the daily changing quote, there are six cards representing the main features of the platform:
-
-- The first card is a Personal Dashboard. Inside the personal dashboard, there are 4 selectable tabs: Dashboard, Distress Score, Daily tips, Daily quotes.
-
-Dashboard tab: on the dashboard tab, there are two sections, in the first section there are two cards one for Activity and one for my statistics called “My Stats”. In the Activity Card there's a bar chart that shows weekly activities in the y-axis there are days of the week. In the second card there's the stat count, number of insightful days, number of total check ins, Number of Total Audios, Number of Total Longest streak.
-In the second section there's a “My Progress” title and under it are 6 selectable buttons, only one can be selected at a time. The buttons are: Anxiety, Focus, Depression, Motivation, Sleep, Stress. Under these horizontally aligned buttons is a card that holds a bar chart of weekdays and their values for the selected button.
-
-In the Distress Score Tab: the distress score for depression, anxiety, stress is locked for free trial users, Free trials users need to upgrade to view these stats in the same tab an “Upgrade now” button is provided. And a “Upgrade to a premium Subscription to unlock your personal distress scores, where you’ll gain immediate access to your current emotional state. Discover where you stand in terms of Depression, Anxiety and Stress to guide your self-improvement journey and allow you to track your progress over time.” text right above the button.
-
+On the homepage, there's a quote that changes everyday. The quote is meant to inspire and
+motivate the users of the platform.
+On the homepage, in addition to the daily changing quote, there are six cards representing
+the main features of the platform:
+- The first card is a Personal Dashboard. Inside the personal dashboard, there are 4
+selectable tabs: Dashboard, Distress Score, Daily tips, Daily quotes.
+Dashboard tab: on the dashboard tab, there are two sections, in the first section there are
+two cards one for Activity and one for my statistics called “My Stats”. In the Activity Card
+there's a bar chart that shows weekly activities in the y-axis there are days of the week. In
+the second card there's the stat count, number of insightful days, number of total check ins,
+Number of Total Audios, Number of Total Longest streak.
+In the second section there's a “My Progress” title and under it are 6 selectable buttons, only
+one can be selected at a time. The buttons are: Anxiety, Focus, Depression, Motivation,
+Sleep, Stress. Under these horizontally aligned buttons is a card that holds a bar chart of
+weekdays and their values for the selected button.
+In the Distress Score Tab: the distress score for depression, anxiety, stress is locked for free
+trial users, Free trials users need to upgrade to view these stats in the same tab an
+“Upgrade now” button is provided. And a “Upgrade to a premium Subscription to unlock your
+personal distress scores, where you’ll gain immediate access to your current emotional
+state. Discover where you stand in terms of Depression, Anxiety and Stress to guide your
+self-improvement journey and allow you to track your progress over time.” text right above
+the button.
 In The daily tips Tab: there's a daily tip displayed, it changes everyday.
-
 In The daily quotes Tab: there's a daily quote displayed, it changes everyday.
-
-- The second card is Self Reflection: The self reflection page, there are five cards: Health, Work & Learning, Relationships, Self-care & Leisure, Personal growth, each of these cards navigate you to a specific page with a series of questions in correspondence to the selected card. Each question has options to pick from, once you pick one it animates to the next question and the value of a progress bar on top increments, sometimes it is options to pick from and sometimes it's a text field to type. After you're done a welldone alert is shown
+- The second card is Self Reflection: The self reflection page, there are five cards: Health,
+Work & Learning, Relationships, Self-care & Leisure, Personal growth, each of these cards
+navigate you to a specific page with a series of questions in correspondence to the selected
+card. Each question has options to pick from, once you pick one it animates to the next question
+and the value of a progress bar on top increments, sometimes it is options to pick
+from and sometimes it's a text field to type. After you're done a welldone alert is shown
 - The third card is Resources: It navigates you to the My Resources Menu item
-
-
-
-- The fourth card is “Therapist Connect”: it navigates you to a coming soon page, which signifies that this feature is still in the works and the team is trying to complete it as soon as possible. In the page it also recommends that users check out other cool features.
-
+- The fourth card is “Therapist Connect”: it navigates you to a coming soon page, which
+signifies that this feature is still in the works and the team is trying to complete it as soon as
+possible. In the page it also recommends that users check out other cool features.
 - The fifth card is “Your Journey”: It navigates you to the My Journey Menu item
-
-- The last card is “Community”:  it navigates you to a coming soon page, which signifies that this feature is still in the works and the team is trying to complete it as soon as possible. In the page it also recommends that users check out other cool features.
-
-Under these 6 horizontally aligned cards is a Recommended tip for you which shows the recommended tip for the day, it changes every day.
-
+- The last card is “Community”: it navigates you to a coming soon page, which signifies that
+this feature is still in the works and the team is trying to complete it as soon as possible. In
+the page it also recommends that users check out other cool features.
+Under these 6 horizontally aligned cards is a Recommended tip for you which shows the
+recommended tip for the day, it changes every day.
 THE EXPLORE MENU ITEM
-
-On the page, It has the same six cards representing the main features of the platform: Personal Dashboard, Resources, Self Reflection, Community, Therapist Connect, Journey. But this page features to new cards: Learning Center & Profile
-
-Learning Center: navigates you to a coming soon page, which signifies that this feature is still in the works and the team is trying to complete it as soon as possible. In the page it also recommends that users check out other cool features.
-
+On the page, It has the same six cards representing the main features of the platform:
+Personal Dashboard, Resources, Self Reflection, Community, Therapist Connect, Journey.
+But this page features to new cards: Learning Center & Profile
+Learning Center: navigates you to a coming soon page, which signifies that this feature is
+still in the works and the team is trying to complete it as soon as possible. In the page it also
+recommends that users check out other cool features.
 Profile: navigation you to the profile menu item on the side bar menu.
-
-
 THE BLOG MENU ITEM
-
-On this page there are 4 on at a time selectable chips: All Categories(the default), Dieting, Exercise Test, New Category test.
-Under these horizontally aligned chips is a paginated 2 column grid that displays the available blogs for the selected chip, this fetch from the backend. Clicking each blog item card navigates you to a page to read the full blog.
-
+The Blog Menu Item feature within the mobile app offers users a comprehensive selection of
+mental health resources through an intuitive interface. Users encounter four selectable chips,
+displaying categories such as 'All Categories' (the default option), 'Dieting,' 'Exercise Test,' and
+'New Category test.'
+Underneath these chips, users encounter a visually organized grid layout, presenting available
+blogs in a paginated format. This grid, structured into two columns, dynamically fetches content
+from the backend server, ensuring users have access to up-to-date information and resources.
+Upon selecting a blog item card, users are seamlessly redirected to a dedicated page where
+they can engage with the full blog content. This feature aims to provide users with a convenient
+and immersive experience, fostering mental well-being through accessible and informative
+resources.
 THE MY RESOURCES MENU ITEM
-
-
+The Resources tab serves as a personalized hub within the app, offering users a curated
+selection of enriching content tailored to their individual needs.
+Accessible within this tab are various multimedia resources, including videos, articles, audios,
+podcasts, and books, carefully curated to provide diverse perspectives and insights on mental
+health and well-being.
+In addition to passive consumption, users can engage in interactive activities designed to
+promote active learning and self-reflection. These include 'Learn and Do Activities,' encouraging
+users to apply newfound knowledge in practical ways, and 'Read and Reflect Activities,'
+fostering deeper introspection and personal growth.
+By providing a rich array of content and engaging activities, our 'Resources' tab empowers
+users to explore, learn, and cultivate resilience on their journey toward improved mental
+well-being.
 THE MY GOALS MENU ITEM
-
+The Goal Setting tab serves as a pivotal feature within our app, empowering users to cultivate
+holistic well-being through structured goal-setting across five key categories: Health, Work,
+Relationship, Leisure, and Personal Development.
+Within each category, users embark on a journey of self-reflection and proactive planning
+through two distinct sections. In the first section, thought-provoking questions prompt users to
+introspect and evaluate their current mental well-being, fostering greater self-awareness and
+clarity.
+Subsequently, in the second section, users are guided through the process of setting actionable
+goals aligned with their aspirations and desired outcomes. These goals are seamlessly
+integrated into their calendar, facilitating effective time management and accountability.
+By incorporating user-generated goals into their daily routines, complete with notifications and
+reminders, our Goal Setting feature empowers users to take proactive steps towards realizing
+their full potential and achieving a balanced, fulfilling life.
 THE MY JOURNAL MENU ITEM
-
+My Journal feature offers users a personalized space within the app to capture their thoughts,
+emotions, and reflections, fostering a deeper understanding of their mental well-being.
+Users can effortlessly create and save notes, ensuring that their insights are securely stored
+within the app for future reference. The intuitive interface allows users to easily revisit, edit, or
+delete any journal entry, empowering them to track their progress and growth over time.
+To enhance organization and accessibility, users have the option to pin up to three of their
+favorite journals to the top of the list, providing quick access to their most cherished reflections.
+Additionally, users can infuse their journal entries with personal flair by choosing from a
+spectrum of colors to differentiate and categorize each journal, adding a touch of individuality to
+their mental health journey.
+By providing a user-friendly platform for self-expression and organization, our 'Journal' feature
+encourages users to cultivate mindfulness and introspection, ultimately fostering a greater
+sense of well-being.
 THE MY JOURNEY MENU ITEM
-
-THE MY JOURNAL MENU ITEM
-THE MY PROFILE  MENU ITEM
-
+"The 'My Journey' menu item offers users a comprehensive overview of their progress and
+engagement within the app, serving as a personalized dashboard for their mental health
+journey.
+Central to this feature are 'Milestones,' providing users with a visual representation of their
+achievements and progress along their journey. These milestones serve as meaningful markers
+of growth and development, inspiring users to continue their pursuit of well-being.
+Additionally, users can access an 'Archived Answers' tab, where they can revisit their responses
+to thought-provoking questions from activities such as 'Learn and Do' and 'Read and Reflect.'
+This feature enables users to track their evolving perspectives and insights over time, fostering
+deeper self-awareness and reflection.
+Furthermore, within the 'Journey' tab, users can effortlessly access a comprehensive list of all
+resources they have interacted with within the application. This includes articles, videos,
+podcasts, and other multimedia content, providing users with a convenient way to revisit and
+engage with valuable resources that have contributed to their journey.
+By consolidating key elements of users' experiences within the app, the 'Journey' tab offers a
+holistic view of their progress and engagement, empowering users to navigate their mental
+health journey with clarity and purpose."
+THE MY PROFILE MENU ITEM
 In the profile page there are a number of list items that when tapped triggers an account:
-Account, Favourites, My Journal, Calendar, Change Password, Subscription, Status, Deactivate my Account, Privacy & Security & Logout.
-
+Account, Favourites, My Journal, Calendar, Change Password, Subscription, Status,
+Deactivate my Account, Privacy & Security & Logout.
 Account: navigates you to a page where you can see your account details:
-Profile picture in a bright yellow colour, if no picture has been added it deplayes the first lame of user user name, stack on the bottom right is a pencil icon which can be used to edit the profile picture.
-Under is the full name and the e-mail address which are all editable by pressing the edit pencil icon on the far right.
-
+Profile picture in a bright yellow colour, if no picture has been added it deplayes the first lame
+of user user name, stack on the bottom right is a pencil icon which can be used to edit the
+profile picture.
+Under is the full name and the e-mail address which are all editable by pressing the edit
+pencil icon on the far right.
 Favourites:
-
-
+Nested within the 'My Profile' menu item lies the 'Favorites' tab, offering users a convenient
+repository for their most cherished resources within the app.
+This dedicated tab serves as a curated collection of all resources that users have marked as
+favorites, denoted by a heart-shaped icon attached to each resource. Through this intuitive
+feature, users can easily access and revisit the content that resonates most deeply with them,
+ensuring quick retrieval of valuable resources whenever needed.
+By providing a centralized hub for users to access their favorite resources, the 'Favorites' tab
+enhances user experience and fosters continued engagement with content that aligns with their
+interests and preferences.
 My Journal: navigates you back to the my journal menu item on the menu.
-
 Calendar:
-
-Change Password: on click navigates you to a page with an “Enter a new password” title, three text field: Old Password, New Password, confirm password, four pattern matching validators: At least 8 characters, Both uppercase and lowercase characters, At least one number or symbol, Password match and a confirm password button which is activated if four of the pattern has been matched.
-
+Nested within the 'My Profile' menu, the 'Calendar' tab offers users a comprehensive overview
+of their scheduled activities and engagements within the app.
+This feature seamlessly integrates with users' personal calendars, displaying all activities they
+have incorporated into their schedules. From important milestones to scheduled reflections and
+interactive tasks, users can easily track and manage their mental health-related commitments
+within a unified interface.
+By providing a centralized hub for organizing and visualizing scheduled activities, the 'Calendar'
+tab enhances user productivity and ensures that users stay on track with their mental health
+goals and objectives.
+Change Password: on click navigates you to a page with an “Enter a new password” title,
+three text field: Old Password, New Password, confirm password, four pattern matching
+validators: At least 8 characters, Both uppercase and lowercase characters, At least one
+number or symbol, Password match and a confirm password button which is activated if four
+of the pattern has been matched.
 Subscription status: on click navigates you to a page that displays the current user tier.
-If the current user is in a free trial the shows the number of days remaining for the free trial to end. Under it is a list of features that premium tier offers and under these features is a “Choose subscription plan” text and a  “Upgrade” button.
-
+If the current user is in a free trial the shows the number of days remaining for the free trial to
+end. Under it is a list of features that premium tier offers and under these features is a
+“Choose subscription plan” text and a “Upgrade” button.
 Deactivate my account: on click navigates you to a page to deactivate your account.
-On this page there's a “I'm deactivating my account because….” and because it is a dropdown that offers a list of reasons why users could potentially be deactivating their account.
-Under it is  a “Tell us more” text and beside it is a text field for the current user to provide  more information as to why they are deactivating.
+On this page there's a “I'm deactivating my account because….” and because it is a
+dropdown that offers a list of reasons why users could potentially be deactivating their
+account.
+Under it is a “Tell us more” text and beside it is a text field for the current user to provide
+more information as to why they are deactivating.
 Under it a big bright red “Deactivate” Button.
-
-Privacy & Security: on click navigates you to a page where all the privacy and securities of PyshchInsights platform are displayed.
-
-Logout: on click triggers an “Are use sure” alert with two buttons yes & no, clicking yes logout user and the no button closes the alert dialog.
-
-
-
-Note: Anything context that's not provided in this document, simply should be answered with “i am sorry, I don't have enough for this question”, When asked what is your name, respond with “My name is Avery”
-
-
-
-
-
-
+Privacy & Security: on click navigates you to a page where all the privacy and securities of
+Psych Insights platform are displayed.
+Logout: on click triggers an “Are use sure” alert with two buttons yes & no, clicking yes
+logout user and the no button closes the alert dialog.
+Note: Anything context that's not provided in this document, simply should be answered with
+“i am sorry, I don't have enough for this question”, When asked what is your name, respond
+with “My name is Avery”
