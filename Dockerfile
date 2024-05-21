@@ -4,8 +4,7 @@ FROM python:3.9-slim
 # Set environment variables
 ENV FLASK_APP=app.py \
     FLASK_RUN_HOST=0.0.0.0 \
-    FLASK_ENV=production \
-    OPENAI_API_KEY=sk-proj-v1WCIZDslTBd5VHviIlzT3BlbkFJQWfl6gQ2Yzd7m1jRP4P0
+    FLASK_ENV=production
 
 # Set the working directory in the container
 WORKDIR /app
